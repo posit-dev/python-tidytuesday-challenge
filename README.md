@@ -4,7 +4,7 @@
 
 If you **didn't** get here via [the official TidyTuesday github repo](https://github.com/rfordatascience/tidytuesday), we encourage you to go check it out first. It's a weekly data science challenge run by the [Data Science Learning Community](https://dslc.io/), with a new data set added each week. 
 
-This repository is your destination for an added challenge. Inside the readme file of each week's TidyTuesday data set, you'll see our challenge: can you create a Quarto dashboard that communicates insights about this week's data set? To participate, share your result to your community of choice, and don't forget to tag us using the hastags **#TidyTuesday** and **#PositPythonChallenge** so that we can highlight your work!
+This repository is your destination for an added challenge. Inside the readme file of each week's TidyTuesday data set, you'll see our challenge: can you create a Quarto dashboard that communicates insights about this week's data set? To participate, share your result to your community of choice, and don't forget to tag us using the hashtags **#TidyTuesday** and **#PositPythonChallenge** so that we can highlight your work!
 
 ### Here's where you can tag us when you share your submissions!
 <a href="https://pos.it/facebook"><img src="images/facebook-logo_lightblue.svg" height="25" alt="Posit Facebook" /></a>&nbsp;
